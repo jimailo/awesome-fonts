@@ -196,6 +196,11 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 * [TruFont](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
+
+#### Font store
+* [Artlebedev](https://store.artlebedev.ru/type/) - The font store of the Artemy Lebedev studio
+
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
